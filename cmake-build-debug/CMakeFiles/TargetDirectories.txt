@@ -1,0 +1,4 @@
+/home/nano/Desktop/robot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nano/Desktop/robot/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nano/Desktop/robot/cmake-build-debug/CMakeFiles/myplugins.dir
+/home/nano/Desktop/robot/cmake-build-debug/CMakeFiles/robot.dir

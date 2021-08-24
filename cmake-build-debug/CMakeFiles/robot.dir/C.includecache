@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nano/Desktop/robot/src/jetsonGPIO.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+errno.h
+-
+unistd.h
+-
+fcntl.h
+-
+poll.h
+-
+jetsonGPIO.h
+/home/nano/Desktop/robot/src/jetsonGPIO.h
+
+/home/nano/Desktop/robot/src/jetsonGPIO.h
+
